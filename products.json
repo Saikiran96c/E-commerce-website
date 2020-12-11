@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "BAS",
+        "price": 175.00,
+        "image": { "fields": { "file": { "url": "./images/bas.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Spart",
+        "price": 129.00,
+        "image": { "fields": { "file": { "url": "./images/nike.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Adidas",
+        "price": 160.00,
+        "image": { "fields": { "file": { "url": "./images/bas.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Nike",
+        "price": 199.00,
+        "image": { "fields": { "file": { "url": "./images/nike.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "GM",
+        "price": 109.00,
+        "image": { "fields": { "file": { "url": "./images/gmm.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "MRF",
+        "price": 150.00,
+        "image": { "fields": { "file": { "url": "./images/bas.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": " SS",
+        "price": 167.00,
+        "image": { "fields": { "file": { "url": "./images/nike.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "puma",
+        "price": 99.00,
+        "image": { "fields": { "file": { "url": "./images/puma.jpg" } } }
+      }
+    }
+  ]
+}
